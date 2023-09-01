@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34018.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SkiNet", "Skinet\SkiNet.csproj", "{36963542-C34B-41C4-84CF-1334D1CB2F83}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Core", "Core\Core.csproj", "{A2DE974C-35A8-4FF3-96CF-6EDD0DDE9429}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Infrastructure", "Infrastructure\Infrastructure.csproj", "{2BE3A98F-076B-4BE5-9063-840E6213638A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{36963542-C34B-41C4-84CF-1334D1CB2F83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36963542-C34B-41C4-84CF-1334D1CB2F83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36963542-C34B-41C4-84CF-1334D1CB2F83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36963542-C34B-41C4-84CF-1334D1CB2F83}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2DE974C-35A8-4FF3-96CF-6EDD0DDE9429}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2DE974C-35A8-4FF3-96CF-6EDD0DDE9429}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2DE974C-35A8-4FF3-96CF-6EDD0DDE9429}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2DE974C-35A8-4FF3-96CF-6EDD0DDE9429}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2BE3A98F-076B-4BE5-9063-840E6213638A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BE3A98F-076B-4BE5-9063-840E6213638A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BE3A98F-076B-4BE5-9063-840E6213638A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BE3A98F-076B-4BE5-9063-840E6213638A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4E91A24D-E0F1-4EC9-A45D-955162C6E61C}
+	EndGlobalSection
+EndGlobal
